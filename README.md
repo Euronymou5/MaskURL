@@ -6,7 +6,7 @@
 # Instalacion
 
 ```
-https://github.com/Euronymou5/MaskURL
+git clone https://github.com/Euronymou5/MaskURL
 ```
 
 ```
