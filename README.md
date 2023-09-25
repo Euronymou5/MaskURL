@@ -23,4 +23,4 @@ python3 main.py
 
 # Imagenes
 
-<img src="">
+<img src="https://media.discordapp.net/attachments/995599976463859713/1155913388325609492/image.png?width=779&height=249">
