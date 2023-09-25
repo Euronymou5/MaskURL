@@ -12,3 +12,11 @@ git clone https://github.com/Euronymou5/MaskURL
 ```
 cd MaskURL
 ```
+
+```
+pip3 install -r requirements.txt
+```
+
+```
+python3 main.py
+```
